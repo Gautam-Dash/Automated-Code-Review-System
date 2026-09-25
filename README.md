@@ -1,6 +1,6 @@
-# Codebase-Assistance-using-RAG
+Automated Code Review System
  • Built commit-aware ingestion pipeline with automated code parsing and version control integration, enabling real-time synchronization of codebase changes and maintaining up-to-date knowledge base • Enhanced search accuracy by 40% through implementation of LLM-powered query expansion and cross-encoder re-ranking.
-# Codebase RAG System
+# Automated Code Review System
 
 A production-grade Retrieval-Augmented Generation (RAG) system for semantic search over large codebases with intelligent code understanding and context.
 
